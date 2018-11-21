@@ -10,7 +10,7 @@
 
 praise <-  function(name="Robbie"){
 
-  paste0("saskia loves someone: ",name,"!")
+  paste0("saskia loves: ",name,"!")
 
 }
 
