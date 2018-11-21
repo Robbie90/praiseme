@@ -1,0 +1,10 @@
+Package: praisemeprecourse
+Title: Gives out praise to you
+Version: 0.0.0.9000
+Authors@R: person("Robbie", "Bonelli", email = "bonelli.r@wehi.edu.au", role = c("aut", "cre"))
+Description: Prasing is essential!
+Depends: R (>= 3.5.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
