@@ -4,16 +4,17 @@
 \alias{praise}
 \title{Praise someone}
 \usage{
-praise(name = "Robbie")
+praise(name = "Robbie", verb = "loves")
 }
 \arguments{
 \item{name}{Specifies recipient of name}
+
+\item{verb}{Specififies how saskia feels}
 }
 \description{
 Let's dole out praise
 }
 \examples{
 praise("Anna")
-praise("Robbie")
-
+praise("Robbie","hates")
 }
