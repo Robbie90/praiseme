@@ -10,7 +10,7 @@
 
 praise <-  function(name="Robbie"){
 
-  paste0("saskia loves: ",name,"!")
+  glue::glue("saskia loves: ",name,"!")
 
 }
 
